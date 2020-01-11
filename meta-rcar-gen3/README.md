@@ -7,27 +7,27 @@ This layer provides the configuration to use Docker Engine on the R-Car.
 This layer depends on:
 
 * URI: git://git.yoctoproject.org/poky
-  * branch: rocko
-  * revision: 7e7ee662f5dea4d090293045f7498093322802cc
+  * branch: thud
+  * revision: e7f0177ef3b6e06b8bc1722fca0241fef08a1530
 
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
-  * branch: rocko
-  * revision: ad3a8cfee5b6a6fab17cf1c6e5af851eaec75bd7
+  * branch: thud-dev
+  * revision: 392350524d2715926d8d5d7f413005c1620e59dd
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems
-  * branch: rocko
-  * revision: 352531015014d1957d6444d114f4451e241c4d23
+  * branch: thud
+  * revision: 4cd3a39f22a2712bfa8fc657d09fe2c7765a4005
 
 * URI: git://git.linaro.org/openembedded/meta-linaro
   * layers; meta-optee
-  * branch: rocko
-  * revision: 7e7ee662f5dea4d090293045f7498093322802cc
+  * branch: thud
+  * revision: 0a94decea3bd2504590d1637eadff9d502c19ee2
 
 * URI: git://git.yoctoproject.org/meta-virtualization
-  * branch: rocko
-  * revision: b704c689b67639214b9568a3d62e82df27e9434f
+  * branch: thud
+  * revision: 7685c7d415e0002c448007960837ae8898cd57a5
 
 ## Patches
 
