@@ -14,5 +14,3 @@ Maintainer: Tomohiro Komagata <tomohiro.komagata.aj at gmail.com>
 
 - Raspberrypi 3
     - [README for Raspberrypi](meta-raspberrypi/README.md)
-- R-Car Starter Kit premier(H3ULCB) and R-Car Starter Kit pro(M3ULCB)
-    - [README for R-Car Starter Kit](meta-rcar-gen3/README.md)
