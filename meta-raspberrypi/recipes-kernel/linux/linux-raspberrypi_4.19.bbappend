@@ -9,5 +9,12 @@ SRC_URI_append_raspberrypi3 = " \
 
 SRC_URI_append_raspberrypi3-64 = " \
     file://linux-raspberrypi3-64/docker-config-optional.cfg \
-    file://linux-raspberrypi3-64/docker-config-optional-NetworkDrv.cfg \
+"
+
+SRC_URI_append_raspberrypi4 = " \
+    file://linux-raspberrypi4/docker-config-optional.cfg \
+"
+
+SRC_URI_append_raspberrypi4-64 = " \
+    file://linux-raspberrypi4-64/docker-config-optional.cfg \
 "

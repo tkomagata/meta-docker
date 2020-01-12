@@ -35,7 +35,7 @@
 #MACHINE ?= "edgerouter"
 #
 # This sets the default machine to be qemux86 if no other machine is selected:
-MACHINE ??= "raspberrypi3-64"
+MACHINE ??= "raspberrypi4"
 
 #
 # Where to place downloads
@@ -249,9 +249,6 @@ PACKAGECONFIG_append_pn-nativesdk-qemu = " sdl"
 # track the version of this file when it was generated. This can safely be ignored if
 # this doesn't mean anything to you.
 CONF_VERSION = "1"
-
-# Enable UART
-ENABLE_UART = "1"
 
 #
 # Use systemd for system initialization

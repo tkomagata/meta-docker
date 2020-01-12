@@ -7,20 +7,20 @@ This layer provides the configuration to use Docker Engine on the Raspberrypi
 This layer depends on:
 
 * URI: git://git.yoctoproject.org/poky
-  * branch: thud
+  * branch: warrior
   * revision: HEAD
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-multimedia, meta-networking, meta-python, meta-filesystems
-  * branch: thud
+  * branch: warrior
   * revision: HEAD
 
 * URI: git://git.yoctoproject.org/meta-raspberrypi
-  * branch: thud
+  * branch: warrior
   * revision: HEAD
 
 * URI: git://git.yoctoproject.org/meta-virtualization
-  * branch: thud
+  * branch: warrior
   * revision: HEAD
 
 ## Patches
@@ -41,3 +41,5 @@ Maintainer: Tomohiro Komagata <tomohiro.komagata.aj at gmail.com>
 
 - Raspberrypi 3 (32bit) : raspberrypi3
 - Raspberrypi 3 (64bit) : raspberrypi3-64
+- Raspberrypi 4 (32bit) : raspberrypi4
+- Raspberrypi 4 (64bit) : raspberrypi4-64
