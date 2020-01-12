@@ -7,27 +7,22 @@ This layer provides the configuration to use Docker Engine on the R-Car.
 This layer depends on:
 
 * URI: git://git.yoctoproject.org/poky
-  * branch: thud
-  * revision: e7f0177ef3b6e06b8bc1722fca0241fef08a1530
+  * branch: zeus
+  * revision: 94f6b31befda5c496f65e863a6f8152b42d7ebf0
 
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
-  * branch: thud-dev
-  * revision: 392350524d2715926d8d5d7f413005c1620e59dd
+  * branch: zeus-dev
+  * revision: 9a58b78a5c2960332b6ed4b02a6d8d5c606fa3e5
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems
-  * branch: thud
-  * revision: 4cd3a39f22a2712bfa8fc657d09fe2c7765a4005
-
-* URI: git://git.linaro.org/openembedded/meta-linaro
-  * layers; meta-optee
-  * branch: thud
-  * revision: 0a94decea3bd2504590d1637eadff9d502c19ee2
+  * branch: zeus
+  * revision: 1bfaa2e63a184e21a2db5c286444828d5948a8b4
 
 * URI: git://git.yoctoproject.org/meta-virtualization
-  * branch: thud
-  * revision: 7685c7d415e0002c448007960837ae8898cd57a5
+  * branch: zeus
+  * revision: f4262ab75d36a06c528cc1630b48b817fb0acf8f
 
 ## Patches
 
