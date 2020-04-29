@@ -13,7 +13,7 @@ This layer depends on:
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
   * branch: zeus-dev
-  * revision: 9a58b78a5c2960332b6ed4b02a6d8d5c606fa3e5
+  * revision: 32e34de56a7962efa45725b3db5838b07adca06f
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems
