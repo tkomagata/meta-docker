@@ -13,7 +13,7 @@ This layer depends on:
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
   * branch: thud-dev
-  * revision: 392350524d2715926d8d5d7f413005c1620e59dd
+  * revision: 21d840bc10492ea2f0f45f01df526cbfdb7735cf
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems
