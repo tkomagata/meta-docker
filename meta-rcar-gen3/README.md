@@ -7,22 +7,22 @@ This layer provides the configuration to use Docker Engine on the R-Car.
 This layer depends on:
 
 * URI: git://git.yoctoproject.org/poky
-  * branch: zeus
-  * revision: 94f6b31befda5c496f65e863a6f8152b42d7ebf0
+  * branch: dunfell
+  * revision: 5d47cdf448b6cff5bb7cc5b0ba0426b8235ec478
 
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
-  * branch: zeus-dev
-  * revision: 32e34de56a7962efa45725b3db5838b07adca06f
+  * branch: dunfell-dev
+  * revision: 6c12c043f93966ec704d3a19765fbe200d42715d
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems
-  * branch: zeus
-  * revision: 1bfaa2e63a184e21a2db5c286444828d5948a8b4
+  * branch: dunfell
+  * revision: b5f510e48080b6dc710ff4800feb90ef679c5456
 
 * URI: git://git.yoctoproject.org/meta-virtualization
-  * branch: zeus
-  * revision: f4262ab75d36a06c528cc1630b48b817fb0acf8f
+  * branch: dunfell
+  * revision: ffd787fb850e5a1657a01febc8402c74832147a1
 
 ## Patches
 
