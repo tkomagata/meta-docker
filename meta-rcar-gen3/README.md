@@ -13,7 +13,7 @@ This layer depends on:
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
   * branch: rocko
-  * revision: ad3a8cfee5b6a6fab17cf1c6e5af851eaec75bd7
+  * revision: 70d47c56f04a7ee78597770b88de68a59c56a4aa
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems
