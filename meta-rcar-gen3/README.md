@@ -8,21 +8,21 @@ This layer depends on:
 
 * URI: git://git.yoctoproject.org/poky
   * branch: dunfell
-  * revision: 569b1f5d67c57de957e243997c53ec2f81dc8dfe
+  * revision: 424296bf9bb4bae27febf91bce0118df09ce5fa1
 
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
   * branch: dunfell-dev
-  * revision: 072c0f8648a3e19ff145508d8d431308363a699c
+  * revision: c0a59569d52e32c26de083597308e7bc189675dd
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems
   * branch: dunfell
-  * revision: 654ad8bea49f142d20b2b96c0dd44810a6be233a
+  * revision: f2d02cb71eaff8eb285a1997b30be52486c160ae
 
 * URI: git://git.yoctoproject.org/meta-virtualization
   * branch: dunfell
-  * revision: ff997b6b3ba800978546098ab3cdaa113b6695e1
+  * revision: cac0cdf86d46f7acfba8e6c3931ed72895c056f7
 
 ## Patches
 
