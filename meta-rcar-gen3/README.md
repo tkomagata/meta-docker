@@ -12,8 +12,8 @@ This layer depends on:
 
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
-  * branch: dunfell-dev
-  * revision: c0a59569d52e32c26de083597308e7bc189675dd
+  * branch: dunfell
+  * revision: fd8ab2bb1b5ca98483c6f4aecf09a85c4d6bc016
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems

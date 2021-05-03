@@ -10,5 +10,4 @@ SRC_URI_append = " \
     file://docker-config-optional.cfg \
     file://docker-config-optional-NetworkDrv.cfg \
     file://docker-config-optional-StorageDrv.cfg \
-    git://git.yoctoproject.org/yocto-kernel-cache;type=kmeta;name=meta;branch=yocto-5.4;destsuffix=kernel-meta \
 "
