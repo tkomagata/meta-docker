@@ -22,7 +22,7 @@ This layer depends on:
 
 * URI: git://git.yoctoproject.org/meta-virtualization
   * branch: dunfell
-  * revision: cac0cdf86d46f7acfba8e6c3931ed72895c056f7
+  * revision: ff997b6b3ba800978546098ab3cdaa113b6695e1
 
 ## Patches
 
