@@ -305,7 +305,6 @@ DISTRO_FEATURES_BACKFILL_CONSIDERED = "sysvinit"
 VIRTUAL-RUNTIME_initscripts = "systemd-compat-units"
 
 # add docker to the image
-SKIP_META_VIRT_SANITY_CHECK = "1"
-DISTRO_FEATURES_append = " docker"
+DISTRO_FEATURES_append = " virtualization docker"
 IMAGE_INSTALL_append = "  docker"
 CORE_IMAGE_EXTRA_INSTALL_append = " kernel-modules"
