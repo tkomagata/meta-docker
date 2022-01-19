@@ -22,7 +22,7 @@ This layer depends on:
 
 * URI: git://git.yoctoproject.org/meta-virtualization
   * branch: dunfell
-  * revision: 92cd3467502bd27b98a76862ca6525ce425a8479
+  * revision: c4f156fa93b37b2428e09ae22dbd7f5875606f4d
 
 The following layer is required only for CCPF-SK board
 
