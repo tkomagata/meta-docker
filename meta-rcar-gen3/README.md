@@ -8,17 +8,17 @@ This layer depends on:
 
 * URI: git://git.yoctoproject.org/poky
   * branch: dunfell
-  * revision: 6ebb33bdaccaeadff0c85aab27acf35723df00d8
+  * revision: 74b22db6879b388d700f61e08cb3f239cf940d18
 
 * URI: git://github.com/renesas-rcar/meta-renesas
   * layers; meta-rcar-gen3
   * branch: dunfell
-  * revision: 0fe77668f5d9a31a5d10449988c3d8fb8dc475c5
+  * revision: 13fd24957b9acc29a235ee0c7f398fd867f38b47
 
 * URI: git://git.openembedded.org/meta-openembedded
   * layers: meta-oe, meta-networking, meta-python, meta-filesystems
   * branch: dunfell
-  * revision: c38d2a74f762a792046f3d3c377827b08aade513
+  * revision: 814eec96c2a29172da57a425a3609f8b6fcc6afe
 
 * URI: git://git.yoctoproject.org/meta-virtualization
   * branch: dunfell
@@ -29,7 +29,7 @@ The following layer is required only for CCPF-SK board
 * URI: git://github.com/renesas-rcar/meta-renesas-ccpf
   * layers; meta-rcar-gen3
   * branch: dunfell
-  * revision: b49b57d6e68d5cda70aefbed34e06903484c573b
+  * revision: (not released yet)
 
 ## Patches
 
