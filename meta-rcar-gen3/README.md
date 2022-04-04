@@ -29,7 +29,7 @@ The following layer is required only for CCPF-SK board
 * URI: git://github.com/renesas-rcar/meta-renesas-ccpf
   * layers; meta-rcar-gen3
   * branch: dunfell
-  * revision: bc6d5b8008359de0208a6d2f936f8c6d09b208b3
+  * revision: 09dd815616cce3a2bdcf8906c0d21403df8b93bd
 
 ## Patches
 
